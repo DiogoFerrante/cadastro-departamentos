@@ -1,0 +1,25 @@
+{
+  "departments": [
+    {
+      "id": "1",
+      "name": "Recursos Humanos",
+      "acronym": "RH"
+    },
+    {
+      "id": "2",
+      "name": "Tecnologia da Informação",
+      "acronym": "TI"
+    },
+    {
+      "name": "Tecnico de Usinagem",
+      "acronym": "TU",
+      "id": "7MsO9zZqi5s"
+    },
+    {
+      "name": "Financeiro",
+      "acronym": "FIN",
+      "id": "Di90k47YFeo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
